@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CleanUI</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading">Loading…</string>
+    <string name="ad">AD</string>
+</resources>
